@@ -7,7 +7,11 @@ public class Gittest {
 	private void test() {
 		System.out.println("test1");
 		System.out.println("test2");
+
 		System.out.println("kamali");
+
+		System.out.println("master");
+		System.out.println("final code");
 
 	}
 
