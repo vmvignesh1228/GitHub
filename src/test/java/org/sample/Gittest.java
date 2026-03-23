@@ -12,6 +12,7 @@ public class Gittest {
 
 		System.out.println("master");
 		System.out.println("final code");
+		System.err.println("close");
 
 	}
 
